@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
+
+<script type="text/javascript" src="http://ip.chinaz.com/getip.aspx"></script>
 
 You can use the [editor on GitHub](https://github.com/Wzj258/Wzj258.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
